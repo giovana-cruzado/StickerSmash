@@ -10,4 +10,4 @@ cd StickerSmash
 
 npm run reset-project
 
-npm expo start --localhost --android
+npx expo start --localhost --android
