@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     iconButtonLabel: {
-        color: 'fff',
+        color: '#fff',
         marginTop: 12,
     },
 })
