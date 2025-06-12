@@ -4,7 +4,7 @@ import Ionicons from "@expo/vector-icons/Ionicons";
 export default function TabLayout() {
   return (
     <Tabs screenOptions={{
-      tabBarActiveTintColor: "#ffd33d",
+      tabBarActiveTintColor: "#fff",
       headerStyle: {
         backgroundColor: "#2e1b38",
       },
